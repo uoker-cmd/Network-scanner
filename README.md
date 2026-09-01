@@ -35,7 +35,7 @@ network-scanner/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/network-scanner.git
+git clone https://github.com/uoker-cmd/network-scanner.git
 ```
 
 Open the project directory:
